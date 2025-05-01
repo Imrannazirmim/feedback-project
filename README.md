@@ -21,13 +21,5 @@ A modern and responsive **Feedback App** built with **React** and **Vite**. This
 ## Screenshots
 
 ### Home Page
-![Home Page](src/assets/home.png)
-
-### Add Feedback
-![Add Feedback](src/assets/add-feedback.png)
-
-### Feedback List
-![Feedback List](src/assets/feedback-list.png)
-
----
+![Home Page](src/assets/1.png)
 
