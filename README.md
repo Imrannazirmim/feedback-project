@@ -1,0 +1,33 @@
+# Feedback App
+
+A modern and responsive **Feedback App** built with **React** and **Vite**. This application allows users to provide feedback, view feedback history, and manage feedback entries efficiently.
+
+## Features
+
+- **Add Feedback**: Users can submit feedback with a rating and description.
+- **Feedback List**: Displays a list of all feedback entries with options to edit or delete.
+- **Dynamic Rating System**: Allows users to rate their experience on a scale.
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **State Management**: Uses React Context API for managing global state.
+
+## Technologies Used
+
+- **React**: For building the user interface.
+- **Vite**: For fast development and build tooling.
+- **Tailwind CSS**: For styling the application.
+- **React Context API**: For state management
+
+
+## Screenshots
+
+### Home Page
+![Home Page](src/assets/home.png)
+
+### Add Feedback
+![Add Feedback](src/assets/add-feedback.png)
+
+### Feedback List
+![Feedback List](src/assets/feedback-list.png)
+
+---
+
