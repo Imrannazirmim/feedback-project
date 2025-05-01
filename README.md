@@ -1,6 +1,6 @@
 # Feedback App
 
-A modern and responsive **Feedback App** built with **React** and **Vite**. This application allows users to provide feedback, view feedback history, and manage feedback entries efficiently.
+<a href='https://feedback-react123.netlify.app/'>Preview</a>
 
 ## Features
 
